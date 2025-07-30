@@ -1,2 +1,8 @@
-# DonationMaanagementSystem
-The Donation Management System is a full-stack web-based application designed to streamline and manage the donation process for NGOs, donors, and administrators. This project was developed to address common challenges faced by non-profit organizations, such as manual tracking, lack of transparency, and inefficient donor engagement. 
+# Donation-management-system-java
+A donation management system built in Java focusing on the core principles of Object Oriented Analysis &amp; Design.
+
+# Features
+![image](https://user-images.githubusercontent.com/52096838/121319503-b99d5180-c925-11eb-9b3d-62f3a1a00b39.png)
+
+# Guidelines
+This project is built in Netbeans in Java language.
